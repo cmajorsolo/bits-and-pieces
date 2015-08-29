@@ -1,9 +1,0 @@
-C:\Users\IEUser\documents\visual studio 2013\Projects\Invitation\InvitationTest\obj\Debug\InvitationTest.csprojResolveAssemblyReference.cache
-C:\Users\IEUser\documents\visual studio 2013\Projects\Invitation\InvitationTest\bin\Debug\InvitationTest.dll
-C:\Users\IEUser\documents\visual studio 2013\Projects\Invitation\InvitationTest\bin\Debug\InvitationTest.pdb
-C:\Users\IEUser\documents\visual studio 2013\Projects\Invitation\InvitationTest\bin\Debug\Invitation.exe
-C:\Users\IEUser\documents\visual studio 2013\Projects\Invitation\InvitationTest\bin\Debug\Newtonsoft.Json.dll
-C:\Users\IEUser\documents\visual studio 2013\Projects\Invitation\InvitationTest\bin\Debug\Invitation.pdb
-C:\Users\IEUser\documents\visual studio 2013\Projects\Invitation\InvitationTest\bin\Debug\Newtonsoft.Json.xml
-C:\Users\IEUser\documents\visual studio 2013\Projects\Invitation\InvitationTest\obj\Debug\InvitationTest.dll
-C:\Users\IEUser\documents\visual studio 2013\Projects\Invitation\InvitationTest\obj\Debug\InvitationTest.pdb

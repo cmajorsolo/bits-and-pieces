@@ -1,0 +1,8 @@
+c:\users\ieuser\documents\visual studio 2013\Projects\Invitation\Invitation\bin\Debug\Invitation.exe.config
+C:\Users\IEUser\documents\visual studio 2013\Projects\Invitation\Invitation\bin\Debug\Invitation.exe
+C:\Users\IEUser\documents\visual studio 2013\Projects\Invitation\Invitation\bin\Debug\Invitation.pdb
+C:\Users\IEUser\documents\visual studio 2013\Projects\Invitation\Invitation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\IEUser\documents\visual studio 2013\Projects\Invitation\Invitation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\IEUser\documents\visual studio 2013\Projects\Invitation\Invitation\obj\Debug\Invitation.exe
+C:\Users\IEUser\documents\visual studio 2013\Projects\Invitation\Invitation\obj\Debug\Invitation.pdb
+C:\Users\IEUser\documents\visual studio 2013\Projects\Invitation\Invitation\obj\Debug\Invitation.csprojResolveAssemblyReference.cache

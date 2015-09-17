@@ -1,2 +1,8 @@
-I built this api on the top of MVC project template in Visual Sutido. There are lot of redundent code generated automatically for the OAuth implemntation. Really hard to figure out which ones are my code. I really don't have enough time to tidy up everthing so I picked out the critical code so you can see my logic clearly. 
-Thanks for your time. 
+The Loggin API part contains 
+User.cs 
+UserDb.cs 
+Configuration.cs
+UserController.cs
+Utilities.cs
+
+The LoginFormView.cshtml is working as an API sending the login request. 

@@ -1,0 +1,54 @@
+﻿body
+{
+    font-size: 10pt;
+    font-family: Verdana;
+    margin: 0;
+    padding: 0;
+}
+
+table
+{
+    width: 100%;
+    border: 1px solid silver;
+}
+
+table th 
+{
+    text-align: left;
+    color: White;
+    background-color: #999999;
+}
+
+#divContainer 
+{
+    width: 500px;
+    margin: 0px;
+    position: relative;
+}
+
+#DepartmentHeader
+{
+    height: 35px;
+    font-weight: bold;
+    color: Maroon;
+}
+
+#divStudentList 
+{
+    width: 100%; 
+    height: 300px; 
+    overflow: auto; 
+    background-color: #eeffff; 
+    border: 3px #AAAAFF solid
+}
+
+#divNewStudent 
+{
+    width: 96%; 
+    background-color: #ffeeee; 
+    border: 3px #AAAAFF solid;
+    position: absolute;
+    top :42px;
+    left: 5px;
+    visibility: collapse;
+}

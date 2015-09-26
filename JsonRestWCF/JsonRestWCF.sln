@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentService", "StudentService\StudentService.csproj", "{22B27336-428C-4A59-9909-38BE803C9161}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentServiceTestWeb", "StudentServiceTestWeb\StudentServiceTestWeb.csproj", "{BCD158AF-2BDD-4E06-87D4-BD5C555413FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22B27336-428C-4A59-9909-38BE803C9161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B27336-428C-4A59-9909-38BE803C9161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B27336-428C-4A59-9909-38BE803C9161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B27336-428C-4A59-9909-38BE803C9161}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCD158AF-2BDD-4E06-87D4-BD5C555413FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD158AF-2BDD-4E06-87D4-BD5C555413FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD158AF-2BDD-4E06-87D4-BD5C555413FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD158AF-2BDD-4E06-87D4-BD5C555413FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
